@@ -1,2 +1,2 @@
 # vuejs-lecture
-2020 Vue.js 수업 강의
+vue.js 시작하기  url: https://skhu-lecture-kimjye.web.app/hello3.html
